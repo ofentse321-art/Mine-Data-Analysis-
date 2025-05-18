@@ -1,0 +1,8 @@
+EmplyeeID,Full_Name,job_role,salary(R),start_date
+001,John Smith,HR Manager,55000,2019-01-15
+002,jane_doe,Recruiter,48000.00,2019/03/10
+003,Mike.O'Connor,TalentAcquisition,R52000,03-05-2018
+004,Sarah White,Recruiter,-12000,2021-07-22
+005,,HR Generalist,50500,2020-11-05
+006,Bob !@#Brown,HR Assistant,45500,NULL
+007,lily_evans,HR Manager,9999999,
